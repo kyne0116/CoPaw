@@ -82,3 +82,11 @@ openspec
 /AGENTS.md
 CLAUDE.md
 *.tmp
+
+# oh-my-claudecode
+.omc/
+
+# Browser screenshots
+*.png
+!website/**/*.png
+!docs/**/*.png

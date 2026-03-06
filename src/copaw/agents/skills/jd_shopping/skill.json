@@ -1,0 +1,13 @@
+{
+  "name": "jd_shopping",
+  "description": "京东商品搜索和比价助手，可以根据关键词搜索商品并推荐性价比最高的选项",
+  "author": "CoPaw",
+  "version": "1.0.0",
+  "tools": [
+    {
+      "type": "python",
+      "module": "jd_shopping.search",
+      "function": "search_and_compare"
+    }
+  ]
+}
